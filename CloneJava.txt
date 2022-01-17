@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Clone Modify
+=======
+Original modify
+>>>>>>> 4f52be6514ff8823190b3c1c2b3ba1132a94a37d
